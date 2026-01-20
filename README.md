@@ -6,7 +6,8 @@
 
 This is a simple profile card UI built using HTML and CSS. It displays user information in a clean and minimal layout.
 
-
+\## Preview
+![Preview](preview.png)
 
 \## Features
 
@@ -41,18 +42,12 @@ This is a simple profile card UI built using HTML and CSS. It displays user info
 \- Component structuring
 
 
-
-\## Screenshots
-
-(Add your UI screenshot here)
-
-
-
 \## How to Run
 
 1\. Download or clone the repository
 
 2\. Open index.html in your browser
+
 
 
 
