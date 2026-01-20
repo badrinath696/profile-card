@@ -10,7 +10,10 @@ This is a simple profile card UI built using HTML and CSS. It displays user info
 ![Preview](preview.png)
 
 \## Live Demo 
+
 https://badrinath696.github.io/profile-card/
+
+
 \## Features
 
 \- Profile image
@@ -49,6 +52,7 @@ https://badrinath696.github.io/profile-card/
 1\. Download or clone the repository
 
 2\. Open index.html in your browser
+
 
 
 
