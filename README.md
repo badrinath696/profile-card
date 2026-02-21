@@ -46,6 +46,10 @@ https://badrinath696.github.io/profile-card/
 
 \- Component structuring
 
+\- Buttons 
+
+\- Transparent background 
+
 
 \## How to Run
 
